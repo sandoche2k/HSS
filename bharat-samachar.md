@@ -6,7 +6,10 @@ A lot has been happening in Bharat and around the world. This is a small of news
 
 ### MANNEEYA DATTA JI - RSS SARKARYAVAH
 
-![image](https://user-images.githubusercontent.com/5484470/116778020-ed0bd700-aa6f-11eb-88b6-06ec4b831572.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/5484470/116778020-ed0bd700-aa6f-11eb-88b6-06ec4b831572.png" width="300" height="250">
+</p>
 
 Manneeya Dattatreya Hosabale ji, who is called “Dattaji'' by his fraternity, is the new face of RSS. He has been elected as the 
 Sar-Karyavah or General Secretary of RSS. He was born on December 1, 1954 in Sorab Village in Shimoga District of Karnataka. 
