@@ -1,1 +1,8 @@
-# Table of Contents
+## Table of Contents
+
+* [Vichar]
+* [Bauddhik]
+* [Shareerik]
+* [Bharat Samachar]
+* [Europe Samachar]
+
