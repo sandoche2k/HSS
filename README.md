@@ -11,7 +11,7 @@
 
 
 
-[Vichar]: #vichar
+[Vichar]: https://github.com/sandoche2k/HSS/blob/main/vichar.md
 [Bauddhik]: #Bauddhik
 [Shareerik]: Shareerik
 [Bharat Samachar]: #bharat-samachar
