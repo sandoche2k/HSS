@@ -17,6 +17,6 @@
 [Shareerik]: Shareerik
 [Bharat Samachar]: #bharat-samachar
 [Europe Samachar]: #europe-samachar
-[Yog]: 
+[Yog]: https://github.com/sandoche2k/HSS/blob/main/yog.md
 
 
