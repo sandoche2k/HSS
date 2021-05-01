@@ -3,6 +3,7 @@
 * [Vichar]
 * [Bauddhik]
 * [Shareerik]
+  * [Yog]
 * [Bharat Samachar]
 * [Europe Samachar]
 
@@ -16,5 +17,6 @@
 [Shareerik]: Shareerik
 [Bharat Samachar]: #bharat-samachar
 [Europe Samachar]: #europe-samachar
+[Yog]: 
 
 
