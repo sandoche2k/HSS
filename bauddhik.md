@@ -12,4 +12,6 @@ philosophical treatises, journals, memoirs and letters. In addition, he was also
 educator, patriot and a great social reformer. Mahatma Gandhi used to refer to him as Gurudev (teacher).
 
 
-![image](https://user-images.githubusercontent.com/5484470/116777837-d749e200-aa6e-11eb-8f97-ade7a093e249.png)
+<img src="https://user-images.githubusercontent.com/5484470/116777837-d749e200-aa6e-11eb-8f97-ade7a093e249.png" width="100" height="100">
+
+
