@@ -11,7 +11,7 @@ He also made a notable contribution to literature as a dramatist, novelist and s
 philosophical treatises, journals, memoirs and letters. In addition, he was also a musician, painter, actor-producer-director, 
 educator, patriot and a great social reformer. Mahatma Gandhi used to refer to him as Gurudev (teacher).
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/5484470/116777837-d749e200-aa6e-11eb-8f97-ade7a093e249.png" width="400" height="300">
-
+</p>
 
