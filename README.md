@@ -11,10 +11,10 @@
 
 
 
-[Vichar]: (https://github.com/sandoche2k/HSS/blob/main/vichar.md)
+[Vichar]: #vichar
 [Bauddhik]: #Bauddhik
 [Shareerik]: Shareerik
 [Bharat Samachar]: #bharat-samachar
 [Europe Samachar]: #europe-samachar
 
-[Google](https://www.google.com)
+
