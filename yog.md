@@ -1,9 +1,9 @@
 ## ARDHA CAKRĀSANA (THE HALF WHEEL POSTURE)
 
 
-![image](https://user-images.githubusercontent.com/5484470/116777962-a0280080-aa6f-11eb-856d-08682851e65a.png)
-
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/5484470/116777962-a0280080-aa6f-11eb-856d-08682851e65a.png" width="400" height="300">
+</p>
 
 Ardha means half. Chakra means wheel. In this posture, as the body takes the shape of a half wheel, hence it is called Ardha Cakrāsasna.
 
