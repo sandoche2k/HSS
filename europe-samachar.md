@@ -3,7 +3,7 @@
 ### HSS Denmark
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/5484470/116778084-30664580-aa70-11eb-8996-005d6b9356b2.png" width="150" height="250">
+<img src="https://user-images.githubusercontent.com/5484470/116778084-30664580-aa70-11eb-8996-005d6b9356b2.png" width="300" height="200">
 </p>
 
 HSS Denmark organized a webinar in January 2021. The topic was to find the cultural similarities between Ancient India & 
